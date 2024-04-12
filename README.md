@@ -5,3 +5,5 @@ This is a little project to work on some basic C++ concepts by building a consol
 ## How to
 
 The calculator can be executed through the command line from the main project path. It will prompt you to enter which arithmetic operation you want to perform, and to enter two numbers.
+
+![image](/Users/georginadiez/Documents/personal_projects/console_calculator/console_screenshot.png "screenshot")
